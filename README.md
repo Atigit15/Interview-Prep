@@ -33,6 +33,6 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 - Practice basic HR questions
 
 # Useful Links 
-- https://algozenith.medium.com/internship-and-placement-resources-712eba3a5dee
-- https://csmock.com/free-resources
-- https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it
+- [CS Mock - free resources](https://csmock.com/free-resources)
+- [System design case study - Leetcode](https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it)
+- [Mock OA - Algozenith](https://www.practice.algozenith.com/dashboard)
