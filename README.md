@@ -35,3 +35,4 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 # Useful Links 
 - https://algozenith.medium.com/internship-and-placement-resources-712eba3a5dee
 - https://csmock.com/free-resources
+- https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it
