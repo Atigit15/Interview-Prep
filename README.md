@@ -45,8 +45,9 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 - Communicate while you code
 - Know about the company
 - Practice basic HR questions
-    - Refer the designated section in 'Cracking the Coding Interview'](./Books/)
+    - Refer the designated section in 'Cracking the Coding Interview'
 - Read about interview expreinces on medium and leetcode
+- Know the STAR format
 
 # Useful Links 
 - [Medium Article / Guide](https://medium.com/@devgrowth/the-ultimate-guide-to-software-development-job-interview-prep-146028b773af)
