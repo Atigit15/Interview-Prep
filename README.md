@@ -52,6 +52,7 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 # Useful Links 
 - [Medium Article / Guide](https://medium.com/@devgrowth/the-ultimate-guide-to-software-development-job-interview-prep-146028b773af)
 - [CS Mock - free resources](https://csmock.com/free-resources)
+- [The Odin Project](https://www.theodinproject.com/)
 - [System design case study - Leetcode](https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it)
 - [Mock OA - Algozenith](https://www.practice.algozenith.com/dashboard)
 - [takeuforward](https://takeuforward.org/)
