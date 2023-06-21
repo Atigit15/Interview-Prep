@@ -9,10 +9,20 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 
 # Core CS
 - Operating Systems
+    - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 - Computer Networks
+   - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - Database Management
+  - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
+  - [SQL Queries]()
 - OOPS
+  - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
 - System Design
+  - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+<p> -> Make notes for last minute revision</p>
+<p> -> Check out most asked interview questions</p>
+<p> -> Refer to material in ./CS_Fundamental folder</p>
+
 
 # Coding Skill
 Your coding skill is measured with 2 things, DSA coding rounds (online assesments and interviews) and your projects, which are discussed in your interviews.
