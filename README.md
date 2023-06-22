@@ -49,6 +49,33 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 - Read about interview expreinces on medium and leetcode
 - Know the STAR format
 
+# Youtube Channels
+- Note : Avoid click-baity content, even if it is from these channels.
+-  The channels in development section is categorised into two categories - practical(P) and conceptuals(C).
+- Practical : The channel is more inclined towards project building (start to finish)
+- Conceptual : Inclination is towards tutorials and demonstrating concepts related to certain framework or language.
+## DSA/CP
+- [Abdul Bari - Algorithms](https://www.youtube.com/@abdul_bari)
+- [Aditya Verma - DP](https://www.youtube.com/@TheAdityaVerma)
+- [Kartik Arora - Some Adv Topics](https://www.youtube.com/@AlgosWithKartik/playlists)
+- [Take U Forward](https://www.youtube.com/@takeUforward)
+- [Vivek Gupta - CP Topics](https://www.youtube.com/@vivekgupta3484)
+- [William Fiset - Visualisation of Algorithms](https://www.youtube.com/@WilliamFiset-videos/playlists)
+- [Harisam Sharma - CP](https://www.youtube.com/@Harisamsharma)
+## Development
+- [Akshay Saini (C)](https://www.youtube.com/@akshaymarch7)
+- [Traversy Media (C)](https://www.youtube.com/@TraversyMedia)
+- [Javascript Mastery (P)](https://www.youtube.com/@javascriptmastery)
+- [Codevolution (C)](https://www.youtube.com/@Codevolution)
+- [Coding with David (P)](https://www.youtube.com/@CodingWithDawid)
+- [Developedbyed (C)](https://www.youtube.com/@developedbyed)
+- [Code with Harry](https://www.youtube.com/@CodeWithHarry)
+- [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
+- [Kishan Sheth (P)](https://www.youtube.com/@KishanSheth21)
+- [Tanay Pratap (C)](https://www.youtube.com/@tanaypratap)
+- [Sheryians Coding School (C/P)](https://www.youtube.com/@thesheryianscodingschool)
+
+
 # Useful Links 
 - [Medium Article / Guide](https://medium.com/@devgrowth/the-ultimate-guide-to-software-development-job-interview-prep-146028b773af)
 - [CS Mock - free resources](https://csmock.com/free-resources)
