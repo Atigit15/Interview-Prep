@@ -37,6 +37,7 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 - Be sure to deploy your site/app
 - Portflio website to showcase your work.
 - Know the inside out of your projects
+- Prepare answers for question like difficulties faced and how did you solve it, why _this_ technology, how to make it scalable, etc.
 
 # Communication Skills
 - Practice mock interviews
