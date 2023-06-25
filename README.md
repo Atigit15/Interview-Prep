@@ -69,6 +69,7 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 - [Javascript Mastery (P)](https://www.youtube.com/@javascriptmastery)
 - [Codevolution (C)](https://www.youtube.com/@Codevolution)
 - [Coding with David (P)](https://www.youtube.com/@CodingWithDawid)
+- [Web Dev Simplified (C)](https://www.youtube.com/@WebDevSimplified)
 - [Developedbyed (C)](https://www.youtube.com/@developedbyed)
 - [Code with Harry](https://www.youtube.com/@CodeWithHarry)
 - [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
