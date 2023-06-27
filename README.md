@@ -30,8 +30,9 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 Your coding skill is measured with 2 things, DSA coding rounds (online assesments and interviews) and your projects, which are discussed in your interviews.
 ## DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- Contests and practice on leetcode
-- Time and space complexity
+- Contests and practice on Leetcode and Atcoder
+- CSES problem set
+- Good grasp on time and space complexity 
 ## Projects
 - 2-3 projects with minimal and clean design (unless you are a designer) and priority zero features.
 - Be sure to deploy your site/app
