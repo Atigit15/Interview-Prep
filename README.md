@@ -28,14 +28,13 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - Refer to material in ./CS_Fundamental folder
 
 
-# Coding Skill
-Your coding skill is measured with 2 things, DSA coding rounds (online assesments and interviews) and your projects, which are discussed in your interviews.
-## DSA
+# DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - Contests and practice on Leetcode and Atcoder
 - CSES problem set
-- Good grasp on time and space complexity 
-## Projects
+- Good grasp on time and space complexity
+  
+# Projects
 - 2-3 projects with minimal and clean design (unless you are a designer) and priority zero features.
 - Be sure to deploy your site/app
 - Portflio website to showcase your work.
@@ -83,11 +82,12 @@ Your coding skill is measured with 2 things, DSA coding rounds (online assesment
 
 
 # Useful Links 
+- [takeuforward](https://takeuforward.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Mock OA - Algozenith](https://www.practice.algozenith.com/dashboard)
 - [Medium Article / Guide](https://medium.com/@devgrowth/the-ultimate-guide-to-software-development-job-interview-prep-146028b773af)
 - [Core CS - Github Repo](https://github.com/notescs/notes)
 - [Riti Kumari - Notes](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 - [CS Mock - free resources](https://csmock.com/free-resources)
-- [The Odin Project](https://www.theodinproject.com/)
 - [System design case study - Leetcode](https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it)
-- [Mock OA - Algozenith](https://www.practice.algozenith.com/dashboard)
-- [takeuforward](https://takeuforward.org/)
+
