@@ -10,6 +10,8 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 # Core CS
 - Operating Systems
     - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
+    - [GFG Articles](https://www.geeksforgeeks.org/operating-systems/)
+    - [InterviewBit FAQ's](https://www.interviewbit.com/operating-system-interview-questions/)
 - Computer Networks
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [Knowlege Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd)
