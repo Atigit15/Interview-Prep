@@ -22,6 +22,7 @@ This directory aims to provide all the materials required to crack a SDE Intervi
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
   - [GFG C++ OOPS](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=shm)
   - [GFG Java OOPS](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+  - [GitHub Repo Cheatsheet](https://github.com/vineethm1627/OOP)
 - System Design
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - Make notes for last minute revision
