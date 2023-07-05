@@ -49,7 +49,8 @@ This directory aims to provide all the materials required to crack a SDE Intervi
     - Pramp.com
     - interviewing.io
 - Communicate while you code
-- Know about the company
+- Know about the company, do your research
+- Think of some questions you can ask the interviewer when given the chance.
 - Practice basic HR questions
     - Refer the designated section in 'Cracking the Coding Interview'
 - Read about interview expreinces on medium and leetcode
