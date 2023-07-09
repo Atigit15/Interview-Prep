@@ -18,6 +18,7 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - Database Management
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
   - [SQL Queries - Ankit Bansal](https://www.youtube.com/@ankitbansal6/playlists)
+  - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp)
 - OOPS
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
   - [GFG C++ OOPS](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=shm)
