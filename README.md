@@ -15,22 +15,25 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - Computer Networks
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [Knowlege Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd)
+   - [InterviewBit FAQ's](https://www.interviewbit.com/networking-interview-questions/)
 - Database Management
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
   - [SQL Queries - Ankit Bansal](https://www.youtube.com/@ankitbansal6/playlists)
   - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp)
+  - [InterviewBit FAQ's](https://www.interviewbit.com/dbms-interview-questions/)
 - OOPS
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
   - [GFG C++ OOPS](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=shm)
   - [GFG Java OOPS](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
   - [GitHub Repo Cheatsheet](https://github.com/vineethm1627/OOP)
+  - [InterviewBit FAQ's](https://www.interviewbit.com/oops-interview-questions/)
 - System Design
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+  - [InterviewBit FAQ's](https://www.interviewbit.com/system-design-interview-questions/)
 - Make notes for last minute revision
 - Understand the concepts in depth, no supercial knowledge
-- Check out most asked] interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
+- Check out most asked interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
 - Refer to material in ./CS_Fundamental folder
-
 
 # DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
