@@ -30,10 +30,26 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - System Design
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [InterviewBit FAQ's](https://www.interviewbit.com/system-design-interview-questions/)
-- Make notes for last minute revision
-- Understand the concepts in depth, no supercial knowledge
-- Check out most asked interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
-- Refer to material in ./CS_Fundamental folder
+  - [Exponent - YT](https://www.youtube.com/@tryexponent/playlists)
+  - [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
+
+SNo | Topic | Resource |  
+----|-------|------|
+1 | Fundamentals of DSA, OS, CN and DBMS | [Gaurav Sen](https://www.youtube.com/@gkcs) |
+2 | Load balancing, caching, horizontal and vertical scaling, distributed system and latency. | [CS DOJO](https://www.youtube.com/@CSDojo) 
+3 | Distributed storage, distributed computing, consensus algorithm and it's applications. | [Tushar Roy](https://www.youtube.com/@tusharroy2525)
+4 | MVC, Observer, Singleton, Factory, and Dependency Injection.| [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi) 
+5 | Designing APIs and microservices. Loose coupling, separation of concerns, and API versioning. REST, GraphQL, and Message queues. | [Tech Primer](https://www.youtube.com/@TechPrimers) 
+6 | Relational databases and NoSQL databases. Indexing, sharding, replication, and ACID properties. | [Homework]()
+7 | Different system architectures, such as monolithic, microservices and serverless. Design principles like SOLID, DRY and KISS. | [Homework]()
+8 | Deep dive into real-world system design case studies. | [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
+ 
+
+- Tips
+  - Make notes for last minute revision
+  - Understand the concepts in depth, no supercial knowledge
+  - Check out most asked interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
+  - Refer to material in ./CS_Fundamental folder
 
 # DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
