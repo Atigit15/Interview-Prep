@@ -53,9 +53,17 @@ SNo | Topic | Resource |
 
 # DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- Contests and practice on Leetcode and Atcoder
-- CSES problem set
+- Contests and practice on [Leetcode](https://leetcode.com/) and [Atcoder](https://atcoder.jp/)
+- [CSES](https://cses.fi/problemset/) problem set
 - Good grasp on time and space complexity
+- Youtube Channels
+    - [Abdul Bari - Algorithms](https://www.youtube.com/@abdul_bari)
+    - [Aditya Verma - DP](https://www.youtube.com/@TheAdityaVerma)
+    - [Kartik Arora - Some Adv Topics](https://www.youtube.com/@AlgosWithKartik/playlists)
+    - [Take U Forward](https://www.youtube.com/@takeUforward)
+    - [Vivek Gupta - CP Topics](https://www.youtube.com/@vivekgupta3484)
+    - [William Fiset - Visualisation of Algorithms](https://www.youtube.com/@WilliamFiset-videos/playlists)
+    - [Harisam Sharma - CP](https://www.youtube.com/@Harisamsharma)
   
 # Projects
 - 2-3 projects with minimal and clean design (unless you are a designer) and priority zero features.
@@ -63,6 +71,20 @@ SNo | Topic | Resource |
 - Portflio website to showcase your work.
 - Know the inside out of your projects
 - Prepare answers for question like difficulties faced and how did you solve it, why _this_ technology, how to make it scalable, etc.
+- Youtube Channels
+    - [Akshay Saini (Namaste JS)](https://www.youtube.com/@akshaymarch7)
+    - [Traversy Media (Crash Courses)](https://www.youtube.com/@TraversyMedia)
+    - [Javascript Mastery (Projects)](https://www.youtube.com/@javascriptmastery)
+    - [Codevolution (React Tutorial)](https://www.youtube.com/@Codevolution)
+    - [Coding with David (Projects)](https://www.youtube.com/@CodingWithDawid)
+    - [Web Dev Simplified (C/Crash Courses)](https://www.youtube.com/@WebDevSimplified)
+    - [Developedbyed (Concepts)](https://www.youtube.com/@developedbyed)
+    - [Code with Harry (C/P)](https://www.youtube.com/@CodeWithHarry)
+    - [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
+    - [Kishan Sheth (P)](https://www.youtube.com/@KishanSheth21)
+    - [Tanay Pratap (Educative shorts)](https://www.youtube.com/@tanaypratap)
+    - [Coding with Robby (MERN CRUD Tutorial)](https://www.youtube.com/@codingwithrobby)
+    - [Sheryians Coding School (C/P)](https://www.youtube.com/@thesheryianscodingschool)
 
 # Communication Skills
 - Practice mock interviews
@@ -75,35 +97,6 @@ SNo | Topic | Resource |
     - Refer the designated section in 'Cracking the Coding Interview'
 - Read about interview expreinces on medium and leetcode
 - Know the STAR format
-
-# Youtube Channels
-- Note : Avoid click-baity content, even if it is from these channels.
--  The channels in development section is categorised into two categories - practical(P) and conceptuals(C).
-- Practical : The channel is more inclined towards project building (start to finish)
-- Conceptual : Inclination is towards tutorials and demonstrating concepts related to certain framework or language.
-## DSA/CP
-- [Abdul Bari - Algorithms](https://www.youtube.com/@abdul_bari)
-- [Aditya Verma - DP](https://www.youtube.com/@TheAdityaVerma)
-- [Kartik Arora - Some Adv Topics](https://www.youtube.com/@AlgosWithKartik/playlists)
-- [Take U Forward](https://www.youtube.com/@takeUforward)
-- [Vivek Gupta - CP Topics](https://www.youtube.com/@vivekgupta3484)
-- [William Fiset - Visualisation of Algorithms](https://www.youtube.com/@WilliamFiset-videos/playlists)
-- [Harisam Sharma - CP](https://www.youtube.com/@Harisamsharma)
-## Development
-- [Akshay Saini (Namaste JS)](https://www.youtube.com/@akshaymarch7)
-- [Traversy Media (C/P/Crash Courses)](https://www.youtube.com/@TraversyMedia)
-- [Javascript Mastery (P)](https://www.youtube.com/@javascriptmastery)
-- [Codevolution (React Tutorials)](https://www.youtube.com/@Codevolution)
-- [Coding with David (P)](https://www.youtube.com/@CodingWithDawid)
-- [Web Dev Simplified (C/Crash Courses)](https://www.youtube.com/@WebDevSimplified)
-- [Developedbyed (C)](https://www.youtube.com/@developedbyed)
-- [Code with Harry (C/P)](https://www.youtube.com/@CodeWithHarry)
-- [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
-- [Kishan Sheth (P)](https://www.youtube.com/@KishanSheth21)
-- [Tanay Pratap (Educative shorts)](https://www.youtube.com/@tanaypratap)
-- [Coding with Robby (MERN CRUD Tutorial)](https://www.youtube.com/@codingwithrobby)
-- [Sheryians Coding School (C/P)](https://www.youtube.com/@thesheryianscodingschool)
-
 
 # Useful Links 
 - [takeuforward](https://takeuforward.org/)
