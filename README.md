@@ -16,6 +16,7 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - Computer Networks
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [Knowlege Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd)
+   - [KK- CrashCourse](https://www.youtube.com/watch?v=IPvYjXCsTg8)
    - [InterviewBit FAQ's](https://www.interviewbit.com/networking-interview-questions/)
 - Database Management
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
