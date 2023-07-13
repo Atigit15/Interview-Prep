@@ -108,4 +108,5 @@ SNo | Topic | Resource |
 - [Riti Kumari - Notes](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 - [CS Mock - free resources](https://csmock.com/free-resources)
 - [System design case study - Leetcode](https://leetcode.com/discuss/interview-question/3653934/complete-system-design-case-studies-bookmark-it)
+- [CP Algorithms](https://cp-algorithms.com/)
 
