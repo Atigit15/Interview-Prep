@@ -6,6 +6,7 @@ This directory aims to provide all the materials required to crack a SDE Intervi
     - DSA
     - Projects
 - Communication skills
+- Puzzles and Aptitude
 
 # Core CS
 - Operating Systems
