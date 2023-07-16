@@ -51,3 +51,23 @@
 - Finding Articulation Points
 ### Resource
 - [Strivers Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
+
+# Range Queries
+- Prefix/Suffix Sum Array
+- Difference Array
+- Sparse Table
+- Fenwick Tree / Binary Indexed Tree (Point Update Range Query)
+- Segment Tree (Point Update Range Query)
+- Lazy Segment Tree (Range Update Range Query)
+
+# Number Theory
+- Binary Exponentiation (with and without mod)
+- Euclidean GCD
+- Prime factorisation of number in sqrt(n)
+- Eular Totient Function
+- Extended Euclidean Algorithm
+- Modular Operation including ' modular inverse '.
+- Sieve of Eratosthenes
+- Modification of Sieve - storing smallest prime factor for all numbers in a given range.
+- Binomial Coefficient (both with and without mod)
+
