@@ -85,8 +85,6 @@ SNo | Topic | Resource |
     - [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
     - [Kishan Sheth (P)](https://www.youtube.com/@KishanSheth21)
     - [Tanay Pratap (Educative shorts)](https://www.youtube.com/@tanaypratap)
-    - [Coding with Robby (MERN CRUD Tutorial)](https://www.youtube.com/@codingwithrobby)
-    - [Sheryians Coding School (C/P)](https://www.youtube.com/@thesheryianscodingschool)
 
 # Communication Skills
 - Practice mock interviews
