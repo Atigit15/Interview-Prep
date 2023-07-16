@@ -51,6 +51,17 @@
 - Finding Articulation Points
 ### Resource
 - [Strivers Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
+- [CSES Graph]
+
+# DP
+- fqef
+- qefqef
+### Resources
+- [Atcoder DP Problems]
+- [CSES DP]
+- [Striver's Playlist]
+- [Vivek Gupta Bootcamp - CP]
+
 
 # Range Queries
 - Prefix/Suffix Sum Array
@@ -70,4 +81,16 @@
 - Sieve of Eratosthenes
 - Modification of Sieve - storing smallest prime factor for all numbers in a given range.
 - Binomial Coefficient (both with and without mod)
+
+# Geometry
+- Sweep Line Algorithms
+- Convex Hull
+- Closest Pair Problem
+  
+# Additional Topics
+- Expected Value and Probability
+- Burnside Lemma
+- Game Theory (Nim / Sprague Grundy)
+- Flows and Cuts
+- Sqrt decomposition (Mo's Algoritmh)
 
