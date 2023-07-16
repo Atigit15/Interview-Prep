@@ -66,6 +66,11 @@ SNo | Topic | Resource |
     - [Vivek Gupta - CP Topics](https://www.youtube.com/@vivekgupta3484)
     - [William Fiset - Visualisation of Algorithms](https://www.youtube.com/@WilliamFiset-videos/playlists)
     - [Harisam Sharma - CP](https://www.youtube.com/@Harisamsharma)
+- Tips to approach a DSA problem in an interview :
+  - Understand the question - Ask clarifying questions, can even ask the interviewer to repeat if it helps
+  - Brute to Better - Always start with the brute force and make your way up the most optimised version while having a discussion.
+  - Testing - Test the solution on test cases, chose edge cases and explain how your code handle them.
+  - Clean Code - Write clean and structured code with necessary comments and meaningful variables name.
   
 # Projects
 - 2-3 projects with minimal and clean design (unless you are a designer) and priority zero features.
