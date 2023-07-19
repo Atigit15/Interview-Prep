@@ -1,4 +1,4 @@
-This directory aims to provide all the materials required to crack a SDE Interview. 
+This directory aims to provide all the materials required to crack an SDE Interview. 
 
 # What you need
 - Core CS concepts knowledge
@@ -12,52 +12,54 @@ This directory aims to provide all the materials required to crack a SDE Intervi
 - Operating Systems
     - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
     - [GFG Articles](https://www.geeksforgeeks.org/operating-systems/)
-    - [InterviewBit FAQ's](https://www.interviewbit.com/operating-system-interview-questions/)
+    - [InterviewBit FAQs](https://www.interviewbit.com/operating-system-interview-questions/)
 - Computer Networks
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
    - [Knowlege Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd)
    - [KK- CrashCourse](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-   - [InterviewBit FAQ's](https://www.interviewbit.com/networking-interview-questions/)
+   - [InterviewBit FAQs](https://www.interviewbit.com/networking-interview-questions/)
 - Database Management
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
   - [SQL Queries - Ankit Bansal](https://www.youtube.com/@ankitbansal6/playlists)
   - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp)
-  - [InterviewBit FAQ's](https://www.interviewbit.com/dbms-interview-questions/)
+  - [InterviewBit FAQs](https://www.interviewbit.com/dbms-interview-questions/)
 - OOPS
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
   - [GFG C++ OOPS](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=shm)
   - [GFG Java OOPS](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+  - [Knowledge Gate - Java OOPS](https://www.youtube.com/watch?v=OQ0En1dQ3zI&pp=ygUea25vd2xlZGdlIGdhdGUgcGxhY2VtZW5udCBvb3Bz)
   - [GitHub Repo Cheatsheet](https://github.com/vineethm1627/OOP)
-  - [InterviewBit FAQ's](https://www.interviewbit.com/oops-interview-questions/)
+  - [InterviewBit FAQs](https://www.interviewbit.com/oops-interview-questions/)
 - System Design
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-  - [InterviewBit FAQ's](https://www.interviewbit.com/system-design-interview-questions/)
   - [Exponent - YT](https://www.youtube.com/@tryexponent/playlists)
   - [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
+  - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
+  - [InterviewBit FAQs](https://www.interviewbit.com/system-design-interview-questions/)
 
 SNo | Topic | Resource |  
 ----|-------|------|
 1 | Fundamentals of DSA, OS, CN and DBMS | [Gaurav Sen](https://www.youtube.com/@gkcs) |
-2 | Load balancing, caching, horizontal and vertical scaling, distributed system and latency. | [CS DOJO](https://www.youtube.com/@CSDojo) 
-3 | Distributed storage, distributed computing, consensus algorithm and it's applications. | [Tushar Roy](https://www.youtube.com/@tusharroy2525)
+2 | Load balancing, caching, horizontal and vertical scaling, distributed system, and latency. | [CS DOJO](https://www.youtube.com/@CSDojo) 
+3 | Distributed storage, distributed computing, consensus algorithm, and its applications. | [Tushar Roy](https://www.youtube.com/@tusharroy2525)
 4 | MVC, Observer, Singleton, Factory, and Dependency Injection.| [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi) 
 5 | Designing APIs and microservices. Loose coupling, separation of concerns, and API versioning. REST, GraphQL, and Message queues. | [Tech Primer](https://www.youtube.com/@TechPrimers) 
 6 | Relational databases and NoSQL databases. Indexing, sharding, replication, and ACID properties. | [Homework]()
-7 | Different system architectures, such as monolithic, microservices and serverless. Design principles like SOLID, DRY and KISS. | [Homework]()
+7 | Different system architectures, such as monolithic, microservices, and serverless. Design principles like SOLID, DRY, and KISS. | [Homework]()
 8 | Deep dive into real-world system design case studies. | [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
  
 
 - Tips
-  - Make notes for last minute revision
-  - Understand the concepts in depth, no supercial knowledge
-  - Check out most asked interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
+  - Make notes for last-minute revision
+  - Understand the concepts in depth, no superficial knowledge
+  - Check out the most asked interview questions [here](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/)
   - Refer to material in ./CS_Fundamental folder
 
 # DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - Contests and practice on [Leetcode](https://leetcode.com/) and [Atcoder](https://atcoder.jp/)
 - [CSES](https://cses.fi/problemset/) problem set
-- Good grasp on time and space complexity
+- Good grasp of time and space complexity
 - Youtube Channels
     - [Abdul Bari - Algorithms](https://www.youtube.com/@abdul_bari)
     - [Aditya Verma - DP](https://www.youtube.com/@TheAdityaVerma)
@@ -68,16 +70,16 @@ SNo | Topic | Resource |
     - [Harisam Sharma - CP](https://www.youtube.com/@Harisamsharma)
 - Tips to approach a DSA problem in an interview :
   - Understand the question - Ask clarifying questions, can even ask the interviewer to repeat if it helps
-  - Brute to Better - Always start with the brute force and make your way up the most optimised version while having a discussion.
-  - Testing - Test the solution on test cases, chose edge cases and explain how your code handle them.
-  - Clean Code - Write clean and structured code with necessary comments and meaningful variables name.
+  - Brute to Better - Always start with the brute force and make your way up the most optimized version while having a discussion.
+  - Testing - Test the solution on test cases, chose edge cases, and explain how your code handles them.
+  - Clean Code - Write clean and structured code with necessary comments and meaningful variables' names.
   
 # Projects
 - 2-3 projects with minimal and clean design (unless you are a designer) and priority zero features.
 - Be sure to deploy your site/app
-- Portflio website to showcase your work.
+- Portfolio website to showcase your work.
 - Know the inside out of your projects
-- Prepare answers for question like difficulties faced and how did you solve it, why _this_ technology, how to make it scalable, etc.
+- Prepare answers for questions like difficulties faced and how did you solve them, why _this_ technology, how to make it scalable, etc.
 - Youtube Channels
     - [Akshay Saini (Namaste JS)](https://www.youtube.com/@akshaymarch7)
     - [Traversy Media (Crash Courses)](https://www.youtube.com/@TraversyMedia)
@@ -99,9 +101,14 @@ SNo | Topic | Resource |
 - Know about the company, do your research
 - Think of some questions you can ask the interviewer when given the chance.
 - Practice basic HR questions
-    - Refer the designated section in 'Cracking the Coding Interview'
-- Read about interview expreinces on medium and leetcode
+    - Refer to the designated section in 'Cracking the Coding Interview'
+- Read about interview experiences on Medium and Leetcode
 - Know the STAR format
+
+# Puzzles and Aptitude
+- Some companies ask for puzzles in their interview, but this doesn't need much specific preparation.
+- Check out GFG Puzzles to get an idea.
+- Aptitude - [Knowledge Gate](https://www.youtube.com/playlist?list=PLMufDeLh5x2CuBcH_y1hmvmwIBgtGxVdv)
 
 # Useful Links 
 - [takeuforward](https://takeuforward.org/)
