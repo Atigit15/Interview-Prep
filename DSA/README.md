@@ -1,5 +1,5 @@
-- Find implementation of various data structures and algorithm in my other Github Repo - [C++ Templates](https://github.com/Atigit15/CP_Templates). <br>
-- This will give the overview, subtopics and resources of each topic in DSA that is required to crack any SDE interview.
+- Find the implementation of various data structures and algorithms in my other Github Repo - [C++ Templates](https://github.com/Atigit15/CP_Templates). <br>
+- This will give the overview, subtopics, and resources of each topic in DSA that is required to crack any SDE interview.
 # Topics
 1. Array
 2. LinkedList
@@ -26,17 +26,17 @@
 - DFS traversal
 - BFS traversal
 - Multisource BFS
-- Detecting cycles (Both in directed/undirected using DFS/BFS)
+- Detecting cycles (Both directed/undirected using DFS/BFS)
 - Topological Sorting (using DFS/BFS - Kahn's Algo)
 - Bipartite Check (using DFS/BFS)
 - Shortest Path
   - BFS (edge weight = 1)
   - [0/1 BFS](https://codeforces.com/blog/entry/22276) (edge weight = 0 or x, where x >= 0)
-  - Bellman Ford (no negative cycles)
-  - SPFA (optimised BF)
+  - Bellman-Ford (no negative cycles)
+  - SPFA (optimized BF)
   - Dijkstra (no negative edge, least TC)
   - Floyd Warshal (no negative cycles, small graphs)
-- Detecting negative cycles using Bellamn Ford and Floyd Warshal
+- Detecting negative cycles using Bellman Ford and Floyd Warshal
 - Disjoint Set Union
   - Union by rank
   - Union by size
@@ -54,14 +54,22 @@
 - [CSES Graph]
 
 # DP
-- fqef
-- qefqef
+- 0/1 Knapsack
+- Unbounded Knapsack
+- Longest Common Subsequence
+- Matrix Chain Multiplication
+- DP on Trees
+- Bitmask DP
+- Digit DP
+- DP on Ranges
+  
 ### Resources
 - [Atcoder DP Problems]
 - [CSES DP]
+- [Kartik Arora]
 - [Striver's Playlist]
-- [Vivek Gupta Bootcamp - CP]
-
+- [Aditya Verma]
+- [DP Handbook - Arpan Banerjee]
 
 # Range Queries
 - Prefix/Suffix Sum Array
@@ -72,15 +80,15 @@
 - Lazy Segment Tree (Range Update Range Query)
 
 # Number Theory
-- Binary Exponentiation (with and without mod)
+- Binary Exponentiation (with and without the mod)
 - Euclidean GCD
-- Prime factorisation of number in sqrt(n)
-- Eular Totient Function
+- Prime factorization of number in sqrt(n)
+- Euler Totient Function
 - Extended Euclidean Algorithm
 - Modular Operation including ' modular inverse '.
 - Sieve of Eratosthenes
-- Modification of Sieve - storing smallest prime factor for all numbers in a given range.
-- Binomial Coefficient (both with and without mod)
+- Modification of Sieve - storing the smallest prime factor for all numbers in a given range.
+- Binomial Coefficient (both with and without the mod)
 
 # Geometry
 - Sweep Line Algorithms
@@ -92,5 +100,5 @@
 - Burnside Lemma
 - Game Theory (Nim / Sprague Grundy)
 - Flows and Cuts
-- Sqrt decomposition (Mo's Algoritmh)
+- Sqrt decomposition (Mo's Algorithm)
 
