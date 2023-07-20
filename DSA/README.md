@@ -51,7 +51,7 @@
 - Finding Articulation Points
 ### Resource
 - [Strivers Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
-- [CSES Graph]
+- [CSES Graph](https://cses.fi/problemset/)
 
 # DP
 - 0/1 Knapsack
@@ -64,8 +64,8 @@
 - DP on Ranges
   
 ### Resources
-- [Atcoder DP Problems]
-- [CSES DP]
+- [Atcoder DP Problems](https://atcoder.jp/contests/dp/tasks)
+- [CSES DP](https://cses.fi/problemset/)
 - [Kartik Arora]
 - [Striver's Playlist]
 - [Aditya Verma]
