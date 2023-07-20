@@ -58,18 +58,18 @@
 - Unbounded Knapsack
 - Longest Common Subsequence
 - Matrix Chain Multiplication
-- DP on Trees
-- Bitmask DP
-- Digit DP
+- [DP on Trees](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s)
+- [Bitmask DP]((https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s))
+- [Digit DP](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s)
 - DP on Ranges
   
 ### Resources
 - [Atcoder DP Problems](https://atcoder.jp/contests/dp/tasks)
 - [CSES DP](https://cses.fi/problemset/)
-- [Kartik Arora]
-- [Striver's Playlist]
-- [Aditya Verma]
-- [DP Handbook - Arpan Banerjee]
+- [Kartik Arora](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s)
+- [Striver's Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY)
+- [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [DP Handbook - Arpan Banerjee](https://github.com/Atigit15/Interview-Prep/blob/main/DSA/Dynamic_Programming.pdf)
 
 # Range Queries
 - Prefix/Suffix Sum Array
