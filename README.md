@@ -37,17 +37,16 @@ This directory aims to provide all the materials required to crack an SDE Interv
   - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
   - [InterviewBit FAQs](https://www.interviewbit.com/system-design-interview-questions/)
 
-SNo | Topic | Resource |  
-----|-------|------|
-1 | Fundamentals of DSA, OS, CN and DBMS | [Gaurav Sen](https://www.youtube.com/@gkcs) |
-2 | Load balancing, caching, horizontal and vertical scaling, distributed system, and latency. | [CS DOJO](https://www.youtube.com/@CSDojo) 
-3 | Distributed storage, distributed computing, consensus algorithm, and its applications. | [Tushar Roy](https://www.youtube.com/@tusharroy2525)
-4 | MVC, Observer, Singleton, Factory, and Dependency Injection.| [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi) 
-5 | Designing APIs and microservices. Loose coupling, separation of concerns, and API versioning. REST, GraphQL, and Message queues. | [Tech Primer](https://www.youtube.com/@TechPrimers) 
-6 | Relational databases and NoSQL databases. Indexing, sharding, replication, and ACID properties. | [Homework]()
-7 | Different system architectures, such as monolithic, microservices, and serverless. Design principles like SOLID, DRY, and KISS. | [Homework]()
-8 | Deep dive into real-world system design case studies. | [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
- 
+SNo | Topic |
+------|-------|
+1 | Fundamentals of DSA, OS, CN and DBMS | 
+2 | Load balancing, caching, horizontal and vertical scaling, distributed system, and latency. | 
+3 | Distributed storage, distributed computing, consensus algorithm, and its applications. | 
+4 | MVC, Observer, Singleton, Factory, and Dependency Injection.| 
+5 | Designing APIs and microservices. Loose coupling, separation of concerns, and API versioning. REST, GraphQL, and Message queues.
+6 | Relational databases and NoSQL databases. Indexing, sharding, replication, and ACID properties. |
+7 | Different system architectures, such as monolithic, microservices, and serverless. Design principles like SOLID, DRY, and KISS. |
+8 | Deep dive into real-world system design case studies. | 
 
 - Tips
   - Make notes for last-minute revision
