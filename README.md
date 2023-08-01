@@ -89,7 +89,6 @@ SNo | Topic |
     - [Code with Harry (C/P)](https://www.youtube.com/@CodeWithHarry)
     - [Hitesh Chaudhary (C)](https://www.youtube.com/@HiteshChoudharydotcom)
     - [Kishan Sheth (P)](https://www.youtube.com/@KishanSheth21)
-    - [Tanay Pratap (Educative shorts)](https://www.youtube.com/@tanaypratap)
 
 # Communication Skills
 - Practice mock interviews
