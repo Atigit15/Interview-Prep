@@ -77,7 +77,13 @@ SNo | Topic |
 - Be sure to deploy your site/app
 - Portfolio website to showcase your work.
 - Know the inside out of your projects
-- Prepare answers for questions like difficulties faced and how did you solve them, why _this_ technology, how to make it scalable, etc.
+- Prepare for:
+    - Introduction
+    - Why this tech stack?
+    - Difficulties faced and how did you overcome those?
+    - Future improvements and idea for implementation
+    - Flow of the app
+    - Learnings
 - Youtube Channels
     - [Akshay Saini (Namaste JS)](https://www.youtube.com/@akshaymarch7)
     - [Traversy Media (Crash Courses)](https://www.youtube.com/@TraversyMedia)
