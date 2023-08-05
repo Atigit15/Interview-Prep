@@ -71,6 +71,14 @@
 - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 - [DP Handbook - Arpan Banerjee](https://github.com/Atigit15/Interview-Prep/blob/main/DSA/Dynamic_Programming.pdf)
 
+# Tries
+- Implementation (Insert, Search, StartsWith)
+- Number of distinct substrings in a string
+- Power Set
+- XOR queries on arrays
+  ### Resources
+  - [Striver Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
+
 # Range Queries
 - Prefix/Suffix Sum Array
 - Difference Array
