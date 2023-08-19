@@ -21,6 +21,19 @@
 18. Geometry
 19. Additional Topics
 
+# LinkedList
+- Reversing a LL
+- Slow and fast pointer technique
+- Doubly and circular LL
+### Resources
+- [Leetcode Problems](https://leetcode.com/tag/linked-list/)
+
+# Stack and Queues
+
+# Strings
+
+# Binary Tree and BST
+
 # Graph
 - Representation
 - DFS traversal
@@ -76,8 +89,16 @@
 - Number of distinct substrings in a string
 - Power Set
 - XOR queries on arrays
-  ### Resources
-  - [Striver Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
+### Resources
+- [Striver Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
+
+# Bit Manipulation
+- Representation and operations
+- Set or check a bit position, toggle, get last bit, etc
+- Generating all subsets
+- Builtin C++ functions
+- Properties of XOR
+- Optimisation techniques using bitmasking
 
 # Range Queries
 - Prefix/Suffix Sum Array
