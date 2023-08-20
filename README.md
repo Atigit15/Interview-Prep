@@ -25,7 +25,7 @@ This directory aims to provide all the materials required to crack an SDE Interv
   - [InterviewBit FAQs](https://www.interviewbit.com/dbms-interview-questions/)
 - OOPS
   - [Code Help](https://www.youtube.com/playlist?list=PLDzeHZWIZsTqouGFa8IyE8K-5hbtAppCC)
-  - [GFG C++ OOPS](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=shm)
+  - [Enjoy Algorithms](https://www.enjoyalgorithms.com/oops-course/)
   - [GFG Java OOPS](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
   - [GitHub Repo Cheatsheet](https://github.com/vineethm1627/OOP)
