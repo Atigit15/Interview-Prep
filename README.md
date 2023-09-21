@@ -32,8 +32,7 @@ This directory aims to provide all the materials required to crack an SDE Interv
   - [InterviewBit FAQs](https://www.interviewbit.com/oops-interview-questions/)
 - System Design
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-  - [Exponent - YT](https://www.youtube.com/@tryexponent/playlists)
-  - [Tech Dummies](https://www.youtube.com/@TechDummiesNarendraL/playlists)
+  - [Strivers System Design RoadMap](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
   - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
   - [InterviewBit FAQs](https://www.interviewbit.com/system-design-interview-questions/)
 
