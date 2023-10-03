@@ -10,17 +10,33 @@
 7. Heaps
 8. Stacks and Queues
 9. Strings
-10. Binary Tree
-11. Binary Seach Tree
-12. Graphs
-13. Dynamic Programming
-14. Tries
-15. Bit Manipulation
-16. Range Queries
-17. Number Theory
-18. Geometry
-19. Additional Topics
+10. Binary Tree and BST
+11. Trees
+13. Graphs
+14. Dynamic Programming
+15. Tries
+16. Bit Manipulation
+17. Range Queries
+18. Number Theory
+19. Geometry
+20. Additional Topics
 
+# Array
+- Sorting Based
+- Prefix/Suffix Sum
+- Two Pointers
+- Sliding Window
+- Count Inversions
+  - Using Merge Sort
+  - Using Fenwick Tree
+  - Using [Ordered Set](https://www.geeksforgeeks.org/ordered-set-gnu-c-pbds/)
+- Kadane's Algorithm
+- Subset Generation
+    - Using Recursion
+    - Using Bitmasks
+- Permutation
+- Quick Select
+  
 # LinkedList
 - Reversing a LL
 - Slow and fast pointer technique
@@ -28,11 +44,40 @@
 ### Resources
 - [Leetcode Problems](https://leetcode.com/tag/linked-list/)
 
+# Greedy
+- Activity Selection
+- Minimum number of platforms required
+- Fractional Knapsack
+
 # Stack and Queues
+- Next/Previous Greater/Smaller Element in O(N)
+- Doubly Ended Queue - Deque
+- Circular Queue
+- Real-life use cases
 
 # Strings
+- String Hashing
+- KMP Algorithm
+- Z Algorithm
+- Rabin Karp Algo
+- Manacher Algorithm
+### Resources
+- [CP-Algorthms](https://cp-algorithms.com/string/string-hashing.html)
 
 # Binary Tree and BST
+- AVL Trees
+- Red Black Trees
+- B/B+ Trees
+- Traversal
+- Serialization and Deserialization
+
+# Trees
+- DFS/BFS Traversal
+- DP on Trees
+- Height and Diameter
+- LCA of two nodes
+- Binary Lifting
+- Heavy Light Decomposition
 
 # Graph
 - Representation
@@ -130,4 +175,8 @@
 - Game Theory (Nim / Sprague Grundy)
 - Flows and Cuts
 - Sqrt decomposition (Mo's Algorithm)
+- Meet in the Middle
+- Offline Queries
+- Reservoir Sampling
+- 2 SAT
 
