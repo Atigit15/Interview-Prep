@@ -1,25 +1,25 @@
 - Find the implementation of various data structures and algorithms in my other Github Repo - [C++ Templates](https://github.com/Atigit15/CP_Templates). <br>
 - This will give the overview, subtopics, and resources of each topic in DSA that is required to crack any SDE interview.
 # Topics
-1. Array
-2. LinkedList
-3. Greedy Algorithms
-4. Recursion
-5. Backtracking
-6. Binary Search
-7. Heaps
-8. Stacks and Queues
-9. Strings
-10. Binary Tree and BST
-11. Trees
-13. Graphs
-14. Dynamic Programming
-15. Tries
-16. Bit Manipulation
-17. Range Queries
-18. Number Theory
-19. Geometry
-20. Additional Topics
+1. [Array](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#arrays)
+2. [LinkedList](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#linkedlist)
+3. [Greedy Algorithms](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#greedy)
+4. [Recursion](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#topics)
+5. [Backtracking](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#topics)
+6. [Binary Search](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#topics)
+7. [Heaps](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#heaps)
+8. [Stacks and Queues](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#stack-and-queues)
+9. [Strings](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#strings)
+10. [Binary Tree and BST](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#binary-tree-and-bst)
+11. [Trees](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#treees)
+13. [Graphs](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#graphs)
+14. [Dynamic Programming](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#dynamic-programming)
+15. [Tries](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#tries)
+16. [Bit Manipulation](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#bit-manipulation)
+17. [Range Queries](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#range-queries)
+18. [Number Theory](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#number-theory)
+19. [Geometry](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#geometry)
+20. [Additional Topics](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#additional-topics)
 
 # Array
 - Sorting Based
