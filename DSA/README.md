@@ -75,9 +75,16 @@
 - DFS/BFS Traversal
 - DP on Trees
 - Height and Diameter
-- LCA of two nodes
 - Binary Lifting
+- Euler Tour (and Range Queries)
+- [LCA of two nodes](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor)
+  - Using SQRT decomposition <O(N), O(SQRT(N))>*
+  - Using Binary Lifting <O(N LOGN, O(LOGN)>
+  - Using EulerTour and RMQ
+    - (Sparse Table) <O(N + NLOGN), O(1)> [Better Choice]
+    - (Segment Tree) <O(N), O(LOGN)>
 - Heavy Light Decomposition
+- Note: *<O(N), O(SQRT(N))> means O(N) precomputation and O(SQRTN) query processing
 
 # Graph
 - Representation
