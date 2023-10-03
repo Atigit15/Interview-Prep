@@ -1,7 +1,7 @@
 - Find the implementation of various data structures and algorithms in my other Github Repo - [C++ Templates](https://github.com/Atigit15/CP_Templates). <br>
 - This will give the overview, subtopics, and resources of each topic in DSA that is required to crack any SDE interview.
 # Topics
-1. [Array](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#arrays)
+1. [Array](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#array)
 2. [LinkedList](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#linkedlist)
 3. [Greedy Algorithms](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#greedy)
 4. [Recursion](https://github.com/Atigit15/Interview-Prep/tree/main/DSA#topics)
