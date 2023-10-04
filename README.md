@@ -55,7 +55,7 @@ SNo | Topic |
 
 # DSA
 - [Strivers Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- Refer [this](https://github.com/Atigit15/Interview-Prep/tree/main/DSA) for details
+- Refer [this](https://github.com/Atigit15/Data-Structures-and-Algorithms) GitHub repo for an exhaustive list of topics and resources
 - Contests and practice on [Leetcode](https://leetcode.com/) and [Atcoder](https://atcoder.jp/)
 - [CSES](https://cses.fi/problemset/) problem set
 - Good grasp of time and space complexity
