@@ -31,6 +31,7 @@ This directory aims to provide all the materials required to crack an SDE Interv
   - [GitHub Repo Cheatsheet](https://github.com/vineethm1627/OOP)
   - [InterviewBit FAQs](https://www.interviewbit.com/oops-interview-questions/)
 - System Design
+  - [Enjoy Algorithms](https://www.enjoyalgorithms.com/system-design-courses/)    
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [Strivers System Design RoadMap](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
   - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
