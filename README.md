@@ -36,6 +36,7 @@ This directory aims to provide all the materials required to crack an SDE Interv
   - [Strivers System Design RoadMap](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
   - [ByteByteGo](https://www.youtube.com/@ByteByteGo/playlists)
   - [InterviewBit FAQs](https://www.interviewbit.com/system-design-interview-questions/)
+  - [Github Repo - AshishPS](https://github.com/ashishps1/awesome-system-design-resources)
 
 SNo | Topic |
 ------|-------|
