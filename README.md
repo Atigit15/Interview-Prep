@@ -80,6 +80,7 @@ SNo | Topic |
 - Be sure to deploy your site/app
 - Portfolio website to showcase your work.
 - Know the inside out of your projects
+- Know the answer to top 50 most asked interview questions on tech stack. Refer InterviewBit, tekeUForward, etc.
 - Prepare for:
     - Introduction
     - Why this tech stack?
