@@ -7,6 +7,7 @@ This directory aims to provide all the materials required to crack an SDE Interv
     - Projects
 - Communication skills
 - Puzzles and Aptitude
+- General Tips
 
 # Core CS
 - Operating Systems
@@ -80,12 +81,12 @@ SNo | Topic |
 - Be sure to deploy your site/app
 - Portfolio website to showcase your work.
 - Know the inside out of your projects
-- Know the answer to top 50 most asked interview questions on tech stack. Refer InterviewBit, tekeUForward, etc.
+- Know the answer to the top 50 most asked interview questions on tech stack. Refer InterviewBit, tekeUForward, etc.
 - Prepare for:
     - Introduction
     - Why this tech stack?
     - Difficulties faced and how did you overcome those?
-    - Future improvements and idea for implementation
+    - Future improvements and ideas for implementation
     - Flow of the app
     - Learnings
 - Youtube Channels
@@ -116,6 +117,10 @@ SNo | Topic |
 - Some companies ask for puzzles in their interview, but this doesn't need much specific preparation.
 - Check out GFG Puzzles to get an idea.
 - Aptitude - [Knowledge Gate](https://www.youtube.com/playlist?list=PLMufDeLh5x2CuBcH_y1hmvmwIBgtGxVdv)
+
+# General Tips
+- Research the company beforehand
+- Appear confident and enthusiastic
 
 # Useful Links 
 - [takeuforward](https://takeuforward.org/)
